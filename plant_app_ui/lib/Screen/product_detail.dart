@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:plant_app_ui/Utils/colors.dart';
 
 class ProductDetail extends StatelessWidget {
